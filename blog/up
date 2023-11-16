@@ -1,6 +1,10 @@
 #!/bin/bash
+
+# sudo npm install -g markdown-styles
+
 cat ./input/*.md > index.md;
 generate-md --layout mixu-bootstrap-2col --output ./output --input ./index.md;
 rm index.md
 rm -r ../assets
 mv ./output/* ../
+echo ">>> Yup, close enough."
