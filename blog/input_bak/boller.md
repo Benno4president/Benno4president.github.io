@@ -1,11 +1,4 @@
-|||
-name: Boller
-date: 2023-07-23
-description: Lorem Ipsum bitch
-|||
-
 # Benno's boller
-
 ## Ingrediensliste
 - 1 æg (optional)
 - 4.5 dl. lunkent vand
