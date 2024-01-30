@@ -50,10 +50,7 @@ def build():
         file_lines = open(fp,'r').readlines()
         files.append(file_lines)
     
-    """
-    1. !PAGE [Name] -> appended to page by that name
-    2. ![xx](yy) for img
-    """
+
     for fil in files:
         component = WebObject()
         try:
