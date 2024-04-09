@@ -1,3 +1,8 @@
+|||
+name: Burritos
+date: 2023-08-16
+|||
+
 # Burritos
 In honor of www.theultimateburrito.com
 ## OG ultimate burrito (rip)
@@ -33,7 +38,9 @@ In honor of www.theultimateburrito.com
 -   Add your desired flavoring, spices, or sauce. See recipes online.
 -   Stir and pour into the pan or stir in pan directly
 -   Cover evenly with 6 slices of cheese (120g)
--   Cover with aluminum foil and cook at 230 C standard oven for 60 minutes and then let it sit and cool. The rice will keep cooking after it has been taken out of the oven.
+-   Cover with aluminum foil and cook at 230 C standard oven for 60 minutes and then 
+
+let it sit and cool. The rice will keep cooking after it has been taken out of the oven.
 
 ## Optimized Readability
 -   **Preheat your oven to 230 C standard**
@@ -48,11 +55,12 @@ In honor of www.theultimateburrito.com
 -   Add 240g chopped mushrooms
 -   Add flavoring, spices, or sauce. See recipes online.
 -   6 large slices of cheese (120g), cover evenly
--   Cover with aluminum foil and cook at 230 C standard oven for 60 minutes and then let it sit and cool. The rice will keep cooking after it has been taken out of the oven.
+-   Cover with aluminum foil and cook at 230 C standard oven for 60 minutes and then 
+
+let it sit and cool. The rice will keep cooking after it has been taken out of the oven.
 
 
 ## Bennos best version
-Scaled to be made twice low waste
 -   **Preheat your oven to 230 C standard**
 -   Import "Lasagne fad" as 'the pan'
 -   In the pan add 4 eggs and whisk

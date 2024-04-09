@@ -1,8 +1,3 @@
-|||
-name: Burritos
-date: 2023-08-16
-|||
-
 # Burritos
 In honor of www.theultimateburrito.com
 ## OG ultimate burrito (rip)
@@ -62,18 +57,21 @@ let it sit and cool. The rice will keep cooking after it has been taken out of t
 
 ## Bennos best version
 -   **Preheat your oven to 230 C standard**
--   Import "Lasagne fad" as 'the pan'
+-   Import "Lasagne fad" as "the pan"
 -   In the pan add 4 eggs and whisk
 -   Add 3.5 dl water
 -   Add 3 cans of tomato paste, whisk
 -   Add 3 dl dry white rice, stir
--   Add 3-4 dl dry beans (DO NOT PUT IN DRY) or 2-3 cans rinsed beans (any)
+-   Add 3-4 dl dry beans (DO NOT PUT IN DRY*) or 2-3 cans rinsed beans (any)
 -   Add 5 chopped frozen spinach blocks
 -   Add 0.5-1 chopped green peppers or whatever
 -   Add 200g chopped mushrooms (half a big pack)
 -   Add flavoring, spices, or sauce.
 -   Cover with aluminum foil and cook at 230 C standard oven for 60 minutes and then let it sit and cool. The rice will keep cooking after it has been taken out of the oven.
 -   Wrap them up! (ca. 10)
+
+> ### *DRY BEANS
+> dry beans should soak in water for ~ 8 hours before using or a few hours and boiled for ~ 15 min
 
 ### price
 - eggs 10 kr = 4 eggs of 2.5 kr

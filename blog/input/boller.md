@@ -1,9 +1,3 @@
-|||
-name: Boller
-date: 2023-07-23
-description: Lorem Ipsum
-|||
-
 # Boller
 
 ## Ingredienser
