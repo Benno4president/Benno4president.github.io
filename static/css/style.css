@@ -1,0 +1,93 @@
+ /*BASIC STYLES*/
+ body {
+    color: saddlebrown;
+    background-image: url(/static/stars.gif);
+    background-repeat: repeat-y;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 800px;
+    margin: auto;
+    position: relative;
+    font-family: "MS gothic";
+    image-rendering: pixelated;
+    font-size: 12px;
+}
+
+
+marquee img:hover {
+    -webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    transform: scale(1.15);
+    z-index: 999;
+}
+
+/*MAIN CONTENT*/
+.mainwrapper {
+    width: 800px;
+}
+
+
+tr {
+    vertical-align: top;
+}
+
+.bocks {
+    border: 1px outset darkseagreen;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: 1px;
+    padding: 1px;
+    background: white;
+    position: relative;
+}
+
+.card {
+    padding: 3px;
+    border: 1px inset rgb(2, 238, 255);
+    background-image: url(/static/idk.png);
+    margin: 5px auto;
+    background-size: 30%;
+    font-weight: bold;
+    text-shadow: 1px 2px 3px grey;
+    color: #614c4b;
+}
+
+a {
+    color: blue !important;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+a:visited {
+    color: orangered !important;
+}
+
+
+/* containers and such */
+
+#wrapping-paper {
+    position: relative;
+    width: 300px;
+    left: 300px;
+    padding-top: 100px;
+}
+
+
+#welcomebox {
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    background-image: url("/wp.jpg");
+    background-repeat: repeat;
+    padding: 6px;
+}
+
+#welcomecontent {
+    border: none;
+    background: white;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
