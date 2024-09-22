@@ -8,6 +8,7 @@ body {
     background-image: url(/static/perma/background_slide.jpeg);
     background-repeat: repeat-y;
     background-color: rgb(255, 217, 157);
+    background-size: auto;
     background-attachment: fixed;
     width: 800px;
     margin: auto;
