@@ -35,11 +35,11 @@ a:visited {
 }
 
 .card {
-    padding: 3px;
+    padding: 1px;
     border: 1px inset rgb(133, 72, 22);
-    background-image: url(/static/idk.png);
+    background-image: url(/static/perma/fall_leafs.jpg);
     margin: 5px auto;
-    background-size: 10%;
+    background-size: 20%;
     font-weight: bold;
     text-shadow: 1px 2px 3px rgb(106, 60, 24);
     color: #67a239;
