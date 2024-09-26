@@ -35,7 +35,7 @@ a:visited {
 }
 
 .card {
-    padding: 1px;
+    padding: 5px;
     border: 1px inset rgb(133, 72, 22);
     background-image: url(/static/perma/fall_leafs.jpg);
     margin: 2px auto;
